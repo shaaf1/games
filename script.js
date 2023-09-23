@@ -379,3 +379,14 @@ function loop(){
     requestAnimationFrame(loop);
 }
 loop();
+
+document.addEventListener('touchstart', function(e) {
+    // Handle touch start event
+  });
+  
+  document.addEventListener('touchend', function(e) {
+    // Handle touch end event
+  });
+
+  
+  
