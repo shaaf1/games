@@ -22,7 +22,9 @@ body {
 /* Style the navigation links on hover */
 .navbar a:hover {
     background-color: #ddd; /* Light gray background on hover */
-    color: black; /* Text color on hover */}
+    
+background-image: url(nav\ bar\ bg.png);}
+    
 
 
 body {
