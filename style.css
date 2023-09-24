@@ -25,7 +25,9 @@ body {
     color: black; /* Text color on hover */}
 
 
-
+body {
+    background-image: url(/img/image.png);
+}
 
 
 
